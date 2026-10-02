@@ -1,0 +1,17 @@
+{
+  "artifact": "firmware-spicy_m33_i2c-2.8.1.8e6a88d.uf2",
+  "sha256": "6d074f397a9c6bc612bdbf04666c6cd388622ab7b11e6b7dac5cc7d53926fa8c",
+  "bytes": 1385472,
+  "blocks": 2706,
+  "family": "0xADA52840 (nRF52840)",
+  "address_min": "0x27000",
+  "address_end": "0xd0200",
+  "embedded_version": "2.8.1.8e6a88d",
+  "embedded_environment": "spicy_m33_i2c",
+  "hardware_runtime_tested": false,
+  "compiled_power_limit_dbm": 8,
+  "compiled_i2c_pins": {
+    "SDA": "D6 / P1.11",
+    "SCL": "D7 / P1.12"
+  }
+}
